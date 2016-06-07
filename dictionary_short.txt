@@ -1,0 +1,7 @@
+Hello
+goodBye
+friend
+
+ClOse
+Zero
+.ciao
